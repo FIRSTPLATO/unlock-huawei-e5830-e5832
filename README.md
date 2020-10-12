@@ -17,7 +17,7 @@ Kelebihan melakukan unlock :
 Bahan-bahan yang diperlukan :
 - OS : Windows 7 x86/x64 atau yang lebih baru
 - Driver bawaan yang ada pada mini wifi, akan terload secara otomatis pada saat dihubungkan ke PC dengan kabel USB
-- [Firmware E5830/E5832 v716.11.17.07.108SP02](http://download.myusbmodem.com/home/Huawei%20Origional%20Firmwares/E5830/E583XUpdate_716.11.17.07.108SP02.exe), ini merupakan firmware terupdate dari Huawei versi global, yang mendukung setting melalui tampilan web.
+- [Firmware E5830/E5832 v716.11.17.07.108SP02](http://download.myusbmodem.com/home/Huawei%20Origional%20Firmwares/E5830/E583XUpdate_716.11.17.07.108SP02.exe), ini merupakan firmware terupdate dari Huawei versi global oleh Netvigator, yang mendukung setting melalui tampilan web.
 - [CardLock_Unlock](http://download.myusbmodem.com/home/Huawei%20Origional%20Firmwares/E5830/CardLock_UnLock.exe), aplikasi yang diperlukan apabila setelah setelah flash firmware sebelumnya, masih belum bisa unlock untuk semua operator. Dan ini harus dilakukan manual.
 
 Langkah-langkah :
