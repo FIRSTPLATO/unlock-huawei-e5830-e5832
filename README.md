@@ -3,7 +3,7 @@
 
 Repo ini akan memberikan detail bagaimana cara melakukan unlock pada Mini Wifi Huawei E583x. 
 
-![](https://raw.githubusercontent.com/daniasefine/unlock-huawei-e5830-e5832/main/img/1.jpg)
+![](https://raw.githubusercontent.com/ares-x45c/unlock-huawei-e5830-e5832/main/img/1.jpg)
 
 Tipe yang didukung :
 - E5830
