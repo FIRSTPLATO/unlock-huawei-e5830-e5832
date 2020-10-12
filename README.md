@@ -33,6 +33,15 @@ Langkah-langkah :
 
 - Setelah terinstall, maka Mini Wifi akan melakukan 2 kali restart, hingga menyala. Pada saat ini, Mini Wifi telah bisa dipergunakan untuk melakukan koneksi dengan operator apapun yang mendukung frekwensi yang dipakai oleh Mini Wifi.
 - Bila setelah proses update firmware, namun belum bisa unlock semua operator, maka pergunakan aplikasi CardLock_Unlock, untuk melakukan unlock. Dan jika diperlukan Unlock Code, bisa didapatkan dengan mempergunakan http://huaweicodecalculator.com/new-algo
+- Untuk mengakses Mini Wifi melalui jaringan wifi, buka browser dan akses http://192.168.1.1
+
+Berikut ini beberapa screenshot tampilan fitur setting melalui jaringan wifi :
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/1.png)
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/2.png)
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/3.png)
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/4.png)
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/5.png)
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/6.png)
 
 Sumber :
 - https://huawei.com
