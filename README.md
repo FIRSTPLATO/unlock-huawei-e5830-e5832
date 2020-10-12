@@ -18,11 +18,11 @@ Langkah-langkah :
 - Tancapkan pada port USB dengan menggunakan kabel USB bawaan
 - Setelah muncul gambar berikut, maka install driver bawaan yang diperlukan. Namun bila sudah terinstall, lanjutkan ke langkah selanjutnya.
 
-[]()
+[](https://raw.githubusercontent.com/daniasefine/unlock-huawei-e5830-e5832/main/img/e5830-1-driver.PNG)
 
 - Install firmware versi terbaru yang telah di download. Proses membutuhkan waktu sekitar 10 menit, tergantung spesifikasi dan port USB yang dipakai.
 
-[]()
+[](https://raw.githubusercontent.com/daniasefine/unlock-huawei-e5830-e5832/main/img/e5830-2-driver.PNG)
 
 - Setelah terinstall, maka Mini Wifi akan melakukan 2 kali restart, hingga menyala. Pada saat ini, Mini Wifi telah bisa dipergunakan untuk melakukan koneksi dengan operator apapun yang mendukung frekwensi yang dipakai oleh Mini Wifi.
 - Bila setelah proses update firmware, namun belum bisa unlock semua operator, maka pergunakan aplikasi CardLock_Unlock, untuk melakukan unlock.
