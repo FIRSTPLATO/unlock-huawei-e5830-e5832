@@ -15,7 +15,7 @@ Advantages after unlock :
 - Mini Wifi will get more features than old firmware. One of these is that can be setup to become always on. This feature didn't provided on old firmware, Mini Wifi always become standby mode if there is not request data or internet access between connected devices for a while.
 
 ![](https://raw.githubusercontent.com/FIRSTPLATO/unlock-huawei-e5830-e5832/main/img/7.png)
-> Mini Wifi E5830 dengan menggunakan provider Indosat Ooredoo
+> Mini Wifi E5830 use Indosat Ooredoo, local cellular provider
 
 Requirements :
 - OS : Windows 7 x86/x64 or newer
