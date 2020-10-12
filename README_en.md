@@ -17,7 +17,7 @@ Advantages after unlock :
 Requirements :
 - OS : Windows 7 x86/x64 or newer
 - Dirver provided by Mini Wifi, will be loaded automatically when it connected to PC using USB cable.
-- [Firmware E5830/E5832 v716.11.17.07.108SP02](http://download.myusbmodem.com/home/Huawei%20Origional%20Firmwares/E5830/E583XUpdate_716.11.17.07.108SP02.exe), this is latest update Huawei global vervion firmware, that supports setting using wifi connection.
+- [Firmware E5830/E5832 v716.11.17.07.108SP02](http://download.myusbmodem.com/home/Huawei%20Origional%20Firmwares/E5830/E583XUpdate_716.11.17.07.108SP02.exe), this is latest update Huawei global vervion firmware by Netvigator, that supports setting using wifi connection.
 - [CardLock_Unlock](http://download.myusbmodem.com/home/Huawei%20Origional%20Firmwares/E5830/CardLock_UnLock.exe), this application is needed when after you flash the firmware above, your Mini Wifi still not become unlocked for all operators.
 
 Step by step :
@@ -33,6 +33,15 @@ Step by step :
 
 - After installed, Mini Wifi will be auto restart 2 times, till turn on again. At this time, your Mini Wifi can be used to connect to all operator that supports frequency like used in Mini Wifi.
 - If after firmware update, you still can't unlock all operators, just use Cardlock_Unlock application, to unlock. And if needed Unlock Code, you can get it using http://huaweicodecalculator.com/new-algo
+- To access Mini Wifi within wifi network, open browser and access http://192.168.1.1
+
+Below are some screenshots that shows some featured which can be access within wifi network :
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/1.png)
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/2.png)
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/3.png)
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/4.png)
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/5.png)
+![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/6.png)
 
 Resource :
 - https://huawei.com
