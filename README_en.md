@@ -3,9 +3,16 @@
  
 This repo will give you the details how to unlock Mini Wifi Huawei E583x.
 
+![](https://raw.githubusercontent.com/ares-x45c/unlock-huawei-e5830-e5832/main/img/1.jpg)
+
 Supported type :
 - E5830
 - E5832
+
+Advantages after unlock :
+- Mini Wifi will can be used all operator cellular
+- Mini Wifi will can be accessed and setup within wifi network
+- Mini Wifi will get more features than old firmware. One of these is that can be setup to become always on. This feature didn't provided on old firmware, Mini Wifi always become standby mode if there is not request data or internet access between connected devices for a while.
 
 Requirements :
 - OS : Windows 7 x86/x64 or newer
@@ -30,3 +37,8 @@ Step by step :
 Resource :
 - https://huawei.com
 - https://myusbmodem.com
+
+Feel free to reach us on :
+- https://www.firstplato.com
+- https://www.facebook.com/firstplato
+- admin@firstplato.com
