@@ -9,6 +9,11 @@ Tipe yang didukung :
 - E5830
 - E5832
 
+Kelebihan melakukan unlock :
+- Mini Wifi akan bisa dipergunakan untuk semua operator.
+- Mini Wifi akan bisa diakses dan setting melalui jaringan wifi.
+- Mini Wifi akan memiliki lebih banyak fitur daripada firmware bawaan. Salah 1 nya yaitu Mini Wifi bisa disetting untuk terus menyala, sebab pada firmware bawaan tidak bisa, Mini Wifi akan otomatis masuk ke mode standby atau memutus koneksi data, bila tidak ada perangkat yang mengakses internet dalam jangka waktu tertentu.
+
 Bahan-bahan yang diperlukan :
 - OS : Windows 7 x86/x64 atau yang lebih baru
 - Driver bawaan yang ada pada mini wifi, akan terload secara otomatis pada saat dihubungkan ke PC dengan kabel USB
@@ -32,3 +37,8 @@ Langkah-langkah :
 Sumber :
 - https://huawei.com
 - https://myusbmodem.com
+
+Feel free to reach us on :
+- https://www.firstplato.com
+- https://www.facebook.com/firstplato
+- admin@firstplato.com
