@@ -5,4 +5,4 @@ Repo ini akan memberikan detail bagaimana cara melakukan unlock pada Mini Wifi H
 
 Tipe yang didukung :
 - E5830
-- E583x
+- E5832
