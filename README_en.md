@@ -1,9 +1,9 @@
 # unlock-huawei-e5830-e5832
-## Repo for unlock Mini Wifi Huawei E5830 / E5832 [English](https://github.com/daniasefine/unlock-huawei-e5830-e5832/blob/main/README_en.md)
+## Repo for unlock Mini Wifi Huawei E5830 / E5832 [English](https://github.com/FIRSTPLATO/unlock-huawei-e5830-e5832/blob/main/README_en.md)
  
 This repo will give you the details how to unlock Mini Wifi Huawei E583x.
 
-![](https://raw.githubusercontent.com/ares-x45c/unlock-huawei-e5830-e5832/main/img/1.jpg)
+![](https://raw.githubusercontent.com/FIRSTPLATO/unlock-huawei-e5830-e5832/main/img/1.jpg)
 
 Supported type :
 - E5830
@@ -25,11 +25,11 @@ Step by step :
 - Plug it to USB port using USB cable provided.
 - After appear like picture below, just install the provided driver you need. But if it has been installed, go to the next step.
 
-![](https://raw.githubusercontent.com/daniasefine/unlock-huawei-e5830-e5832/main/img/e5830-1-driver.PNG)
+![](https://raw.githubusercontent.com/FIRSTPLATO/unlock-huawei-e5830-e5832/main/img/e5830-1-driver.PNG)
 
 - Install the lastest firmware that you have been download. The process needs about 10 minutes, depends on your specs and used USB port.
 
-![](https://raw.githubusercontent.com/daniasefine/unlock-huawei-e5830-e5832/main/img/e5830-2-driver.PNG)
+![](https://raw.githubusercontent.com/FIRSTPLATO/unlock-huawei-e5830-e5832/main/img/e5830-2-driver.PNG)
 
 - After installed, Mini Wifi will be auto restart 2 times, till turn on again. At this time, your Mini Wifi can be used to connect to all operator that supports frequency like used in Mini Wifi.
 - If after firmware update, you still can't unlock all operators, just use Cardlock_Unlock application, to unlock. And if needed Unlock Code, you can get it using http://huaweicodecalculator.com/new-algo
