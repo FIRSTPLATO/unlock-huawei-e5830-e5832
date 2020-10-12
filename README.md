@@ -1,11 +1,18 @@
 # unlock-huawei-e5830-e5832
-## Repo for unlock Mini Wifi Huawei E5830 / E5832 [English](https://github.com/daniasefine/unlock-huawei-e5830-e5832/blob/main/README_en.md)
+## Repo for unlock Mini Wifi Huawei E5830 / E5832 [English](https://github.com/ares-x45c/unlock-huawei-e5830-e5832/blob/main/README_en.md)
 
 Repo ini akan memberikan detail bagaimana cara melakukan unlock pada Mini Wifi Huawei E583x. 
+
+![](https://raw.githubusercontent.com/ares-x45c/unlock-huawei-e5830-e5832/main/img/1.jpg)
 
 Tipe yang didukung :
 - E5830
 - E5832
+
+Kelebihan melakukan unlock :
+- Mini Wifi akan bisa dipergunakan untuk semua operator.
+- Mini Wifi akan bisa diakses dan setting melalui jaringan wifi.
+- Mini Wifi akan memiliki lebih banyak fitur daripada firmware bawaan. Salah 1 nya yaitu Mini Wifi bisa disetting untuk terus menyala, sebab pada firmware bawaan tidak bisa, Mini Wifi akan otomatis masuk ke mode standby atau memutus koneksi data, bila tidak ada perangkat yang mengakses internet dalam jangka waktu tertentu.
 
 Bahan-bahan yang diperlukan :
 - OS : Windows 7 x86/x64 atau yang lebih baru
@@ -30,3 +37,8 @@ Langkah-langkah :
 Sumber :
 - https://huawei.com
 - https://myusbmodem.com
+
+Feel free to reach us on :
+- https://www.firstplato.com
+- https://www.facebook.com/firstplato
+- admin@firstplato.com
