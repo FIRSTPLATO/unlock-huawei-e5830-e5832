@@ -36,12 +36,12 @@ Langkah-langkah :
 - Untuk mengakses Mini Wifi melalui jaringan wifi, buka browser dan akses http://192.168.1.1
 
 Berikut ini beberapa screenshot tampilan fitur setting melalui jaringan wifi :
-![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/1.png)
-![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/2.png)
-![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/3.png)
-![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/4.png)
-![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/5.png)
-![](https://raw.githubusercontent.com/dwizuna/unlock-huawei-e5830-e5832/main/img/6.png)
+![](https://raw.githubusercontent.com/FIRSTPLATO/unlock-huawei-e5830-e5832/main/img/1.png)
+![](https://raw.githubusercontent.com/FIRSTPLATO/unlock-huawei-e5830-e5832/main/img/2.png)
+![](https://raw.githubusercontent.com/FIRSTPLATO/unlock-huawei-e5830-e5832/main/img/3.png)
+![](https://raw.githubusercontent.com/FIRSTPLATO/unlock-huawei-e5830-e5832/main/img/4.png)
+![](https://raw.githubusercontent.com/FIRSTPLATO/unlock-huawei-e5830-e5832/main/img/5.png)
+![](https://raw.githubusercontent.com/FIRSTPLATO/unlock-huawei-e5830-e5832/main/img/6.png)
 
 Sumber :
 - https://huawei.com
