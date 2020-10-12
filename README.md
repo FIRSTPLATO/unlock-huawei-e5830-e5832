@@ -25,7 +25,7 @@ Langkah-langkah :
 ![](https://raw.githubusercontent.com/daniasefine/unlock-huawei-e5830-e5832/main/img/e5830-2-driver.PNG)
 
 - Setelah terinstall, maka Mini Wifi akan melakukan 2 kali restart, hingga menyala. Pada saat ini, Mini Wifi telah bisa dipergunakan untuk melakukan koneksi dengan operator apapun yang mendukung frekwensi yang dipakai oleh Mini Wifi.
-- Bila setelah proses update firmware, namun belum bisa unlock semua operator, maka pergunakan aplikasi CardLock_Unlock, untuk melakukan unlock.
+- Bila setelah proses update firmware, namun belum bisa unlock semua operator, maka pergunakan aplikasi CardLock_Unlock, untuk melakukan unlock. Dan jika diperlukan Unlock Code, bisa didapatkan dengan mempergunakan http://huaweicodecalculator.com/new-algo
 
 Sumber :
 - https://huawei.com
