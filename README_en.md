@@ -1,0 +1,32 @@
+# unlock-huawei-e5830-e5832
+## Repo for unlock Mini Wifi Huawei E5830 / E5832 [English](https://github.com/daniasefine/unlock-huawei-e5830-e5832/blob/main/README_en.md)
+ 
+This repo will give you the details how to unlock Mini Wifi Huawei E583x.
+
+Supported type :
+- E5830
+- E5832
+
+Requirements :
+- OS : Windows 7 x86/x64 or newer
+- Dirver provided by Mini Wifi, will be loaded automatically when it connected to PC using USB cable.
+- [Firmware E5830/E5832 v716.11.17.07.108SP02](http://download.myusbmodem.com/home/Huawei%20Origional%20Firmwares/E5830/E583XUpdate_716.11.17.07.108SP02.exe), this is latest update Huawei global vervion firmware, that supports setting using wifi connection.
+- [CardLock_Unlock](http://download.myusbmodem.com/home/Huawei%20Origional%20Firmwares/E5830/CardLock_UnLock.exe), this application is needed when after you flash the firmware above, your Mini Wifi still not become unlocked for all operators.
+
+Step by step :
+- Ensure that your Mini Wifi battery was fully charged and power it on.
+- Plug it to USB port using USB cable provided.
+- After appear like picture below, just install the provided driver you need. But if it has been installed, go to the next step.
+
+![](https://raw.githubusercontent.com/daniasefine/unlock-huawei-e5830-e5832/main/img/e5830-1-driver.PNG)
+
+- Install the lastest firmware that you have been download. The process needs about 10 minutes, depends on your specs and used USB port.
+
+![](https://raw.githubusercontent.com/daniasefine/unlock-huawei-e5830-e5832/main/img/e5830-2-driver.PNG)
+
+- After installed, Mini Wifi will be auto restart 2 times, till turn on again. At this time, your Mini Wifi can be used to connect to all operator that supports frequency like used in Mini Wifi.
+- If after firmware update, you still can't unlock all operators, just use Cardlock_Unlock application, to unlock. And if needed Unlock Code, you can get it using http://huaweicodecalculator.com/new-algo
+
+Resource :
+- https://huawei.com
+- https://myusbmodem.com
